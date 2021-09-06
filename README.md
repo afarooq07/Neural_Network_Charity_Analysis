@@ -14,6 +14,7 @@ In this challenge, we will be evaluating  34,000 comapanies that have been funde
     - AlphabetSoupCharity_Optimzation_Attempt2.ipynb
     - AlphabetSoupCharity_Optimzation_Attempt3.ipynb
 - **HDF5 files:**
+    - AlphabetSoupCharity.h5
     - AlphabetSoupCharity_Optimization_1.h5
     - AlphabetSoupCharity_Optimization_2.h5
     - AlphabetSoupCharity_Optimization_3.h5
