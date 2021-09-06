@@ -52,6 +52,10 @@ In this challenge, we will be evaluating  34,000 comapanies that have been funde
 
 - Successful in achieving target model performance on third attempt (75.01%)
 
+<br /> 
+<img src="Resources/optimization.png" width=500 align=center>
+<br /> <br /> <br />
+
 - Steps taken for optimization
      - added/updated bins
      - added more hidden layers
