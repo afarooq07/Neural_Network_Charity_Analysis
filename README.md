@@ -47,7 +47,8 @@ In this challenge, we will be evaluating  34,000 comapanies that have been funde
     - Three hidden layers: 
         - adding the third hidden layer increased the accurancy slightly. 
         - Adding a fourth layer resulted in much longer training time with no accuracy gain.
-    - Relu activation function was used for hidden layers and sigmoid for output layer. This combination was able to train the model with 74.8% accuracy.
+    - Relu activation function was used for hidden layers and sigmoid for last hidden layer and output layer. This combination was able to train the model with 75% accuracy.
+    - 
 
 
 - Successful in achieving target model performance on third attempt (75.01%)
