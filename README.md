@@ -37,7 +37,7 @@ In this challenge, we will be evaluating  34,000 comapanies that have been funde
     - INCOME_AMT
     - SPECIAL_CONSIDERATIONS
     - ASK_AMT
-    - NAME (Adding this while optimizing the model caused a slight increase in accuracy)
+    - NAME (Added this while optimizing the model caused a slight increase in accuracy)
 - Neither targets nor features
     - EIN
 
