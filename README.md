@@ -49,7 +49,7 @@ In this challenge, we will be evaluating  34,000 comapanies that have been funde
     - Relu activation function was used for hidden layers and sigmoid for output layer. This combination was able to train the model with 74.8% accuracy.
 
 
-- Unuccessful in achieving target model performance on third attempt, but the accuracy results came close 75% (74.8%).
+- Successful in achieving target model performance on third attempt (75.01%)
 
 - Steps taken for optimization
      - added/updated bins
